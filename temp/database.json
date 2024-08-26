@@ -1,0 +1,20 @@
+{
+  "users": {
+    "6282116568127@s.whatsapp.net": {
+      "limit": 20,
+      "lastChat": 1691704594528,
+      "premium": true,
+      "VIP": true,
+      "name": "Rehanaf",
+      "banned": false
+    },
+    "6283869215257@s.whatsapp.net": {
+      "limit": 20,
+      "lastChat": 1691704675873,
+      "premium": true,
+      "VIP": true,
+      "name": "Reyzee",
+      "banned": false
+    }
+  }
+}
